@@ -1,0 +1,101 @@
+﻿id,name,img_url,brand_id,cat_id,sub_id
+1,Harina CAÑUELAS  0000 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P399842-1.jpg,330,1,1
+2,Arroz Blanco SAMAN 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P031894-1.jpg,1834,1,1
+3,Arroz Integral SAMAN 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P001654-1.jpg,1834,1,1
+4,Arroz Orgánico CAMPOCLARO 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P361532-1.jpg,323,1,1
+5,Couscous TIPIAK 250 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P461258-1.jpg,2056,1,1
+6,Acondicionador PANTENE Brillo Extremo 400 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P182932-1.jpg,1585,4,16
+7,Acondicionador PANTENE Liso Extremo 400 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P133491-1.jpg,1585,4,16
+8,Crema NIVEA Lata 150 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P039320-1.jpg,1484,4,16
+9,Harina de Arroz BLUE PATNA 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P097146-1.jpg,227,1,1
+10,Aceite de Oliva Extra Virgen Orgánico LA ESPAÑOLA 500 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P449421-1.jpg,1134,1,1
+11,"Aceite de Girasol NATURA 1,5 L",https://images-ti-vm1.tiendainglesa.com.uy/small/P010316-1.jpg,1443,1,1
+12,Agua Mineral Natural sin Gas SALUS 6.25  L,https://images-ti-vm1.tiendainglesa.com.uy/small/P113618-2.jpg,1832,2,4
+13,Yerba BALDO 1Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P127359-1.jpg,149,1,3
+14,Azúcar BELLA UNIÓN Blanco 1Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P000163-2.jpg,183,1,3
+15,Arroz BLUE PATNA 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P000208-1.jpg,227,1,1
+16,Yerba BALDO 500g,https://images-ti-vm1.tiendainglesa.com.uy/small/P127360-1.jpg,149,1,3
+17,Yogur YOGURISIMO Sabor Natural sin Azúcar Agregado 460 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P474141-1.jpg,2245,3,14
+18,Vino Tinto TRAPICHE Malbec 750 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P094602-1.jpg,2073,2,9
+19,Atún EMIGRANTE en Aceite Vegetal 345 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P386418-1.jpg,722,1,1
+20,Refresco COCA-COLA Sabor Original 600 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P126192-1.jpg,445,2,8
+21,Refresco COCA-COLA sin Azúcar 600 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P197305-1.jpg,445,2,8
+22,Refresco COCA-COLA Sabor Original Retornable 2 L,https://images-ti-vm1.tiendainglesa.com.uy/small/P306915-1.jpg,445,2,8
+23,Café Soluble BRACAFE 170 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P003179-1.jpg,255,1,3
+24,Café Glaseado El Chana NESTLÉ 500 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P004282-1.jpg,1466,1,3
+25,Dulce Crema de Leche CONAPROLE 250gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P455436-1.jpg,466,1,3
+26,Dulce Crema de Leche CONAPROLE 500 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P014401-2.jpg,466,1,3
+27,Helado Crema Sabor Vainilla CONAPROLE 1 L,https://images-ti-vm1.tiendainglesa.com.uy/small/P068250-1.jpg,466,1,2
+28,Yogur CONAPROLE de Durazno Tetratop 500 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P400530-1.jpg,466,3,14
+29,Huevo ECOLOGITO X15u,https://images-ti-vm1.tiendainglesa.com.uy/small/P114821-1.jpg,675,1,3
+30,Empanadas x 9 de Jamón Cocido y Queso HAMBY 630 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P014190-1.jpg,953,1,1
+31,Limpiador Agua JANE 900 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P096937-1.jpg,1046,4,16
+32,After Shave GILLETE Sensitive Skin Gel 75ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P015298-1.jpg,893,4,17
+33,Té PRESIDENT 10 Sobres,https://images-ti-vm1.tiendainglesa.com.uy/small/P055118-1.jpg,1689,1,3
+34,Yerba CANARIAS 500g,https://images-ti-vm1.tiendainglesa.com.uy/small/P000817-1.jpg,326,1,3
+35,Yerba CANARIAS 1Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P000691-1.jpg,326,1,3
+36,Jugo de Naranja con Pulpa DAIRYCO 5 L,https://images-ti-vm1.tiendainglesa.com.uy/small/P493346-1.jpg,533,2,7
+37,Shampoo HEAD  & SHOULDERS Coconut 375 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P484165-1.jpg,964,4,16
+38,Shampoo HEAD & SHOULDERS Protección Caída 180 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P297585-1.jpg,964,4,16
+39,Aceite de Arroz SAMAN 3 L,https://images-ti-vm1.tiendainglesa.com.uy/small/P129087-1.jpg,1834,1,1
+40,Cerveza BUDWEISER 410 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P524495-1.jpg,285,2,5
+41,Cerveza NORTEÑA Lata 473 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P430969-1.jpg,1494,2,5
+42,Mermelada LOS NIETITOS de Ciruela Pote 500g,https://images-ti-vm1.tiendainglesa.com.uy/small/P004497-1.jpg,1229,1,3
+43,Mermelada LOS NIETITOS sabor Frutilla Pote 500g,https://images-ti-vm1.tiendainglesa.com.uy/small/P004152-1.jpg,1229,1,3
+44,Miel CERROS AZULES 450g,https://images-ti-vm1.tiendainglesa.com.uy/small/P003689-1.jpg,386,1,3
+45,Aceite de Girasol NATURA 900 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P107272-1.jpg,1443,1,1
+46,Yerba ARMIÑO Compuesta 500 gr,https://images-ti-vm1.tiendainglesa.com.uy/small/P129498-1.jpg,99,1,3
+47,Yerba ARMIÑO Clásica 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P034102-2.jpg,99,1,3
+48,Yerba ARMIÑO Suave 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P276610-1.jpg,99,1,3
+49,Yerba ARMIÑO Compuesta 1 Kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P129497-1.jpg,99,1,3
+50,Choclo en crema RIO DE LA PLATA 410 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P004580-1.jpg,1777,1,1
+51,Dueto arveja + choclo RIO DE LA PLATA 300 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P214824-1.jpg,1777,1,1
+52,Pulpa de tomate GOURMET 1.03 kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P020516-1.jpg,921,1,1
+53,Pulpa de tomate GOURMET concentrada sin sal 204 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P405631-1.jpg,921,1,1
+54,Pulpa de tomate GOURMET sin sal 1.03 kg,https://images-ti-vm1.tiendainglesa.com.uy/small/P142908-1.jpg,921,1,1
+55,Pulpa de tomate GOURMET 206 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P405626-1.jpg,921,1,1
+56,Papel higiénico ELITE Doble Hoja 30 metros 4 un.,https://images-ti-vm1.tiendainglesa.com.uy/small/P053749-1.jpg,714,4,17
+57,Papel higiénico ELITE húmedo 40 un.,https://images-ti-vm1.tiendainglesa.com.uy/small/P072887-1.jpg,714,4,17
+58,Papel higiénico HIGIENOL doble Hoja duo 50 m x 4 un.,https://images-ti-vm1.tiendainglesa.com.uy/small/P057622-1.jpg,986,4,17
+59,Papel higiénico HIGIENOL premiun doble Hoja 8x6,https://images-ti-vm1.tiendainglesa.com.uy/small/P081797-1.jpg,986,4,17
+60,Papel higiénico HIGIENOL max 100 mt x4,https://images-ti-vm1.tiendainglesa.com.uy/small/P092981-1.jpg,986,4,17
+61,Papel higiénico HIGIENOL Max Plus x 8 100 m,https://images-ti-vm1.tiendainglesa.com.uy/small/P092984-1.jpg,986,4,17
+62,Papel higiénico HIGIENOL sin Fin Plus 50 metros 4 un.,https://images-ti-vm1.tiendainglesa.com.uy/small/P053767-1.jpg,986,4,17
+63,Fideos ADRIA tirabuzón multicolor 500 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P039591-1.jpg,29,1,1
+64,Fideos ADRIA moñitas multicolor,https://images-ti-vm1.tiendainglesa.com.uy/small/P175232-1.jpg,29,1,1
+65,Fideos al huevo ADRIA vermichelli 500 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P040403-1.jpg,29,1,1
+66,Fideos al huevo ADRIA ave maría 500 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P235134-1.jpg,29,1,1
+67,Cerveza ZILLERTAL 473 cc,https://images-ti-vm1.tiendainglesa.com.uy/small/P424739-1.jpg,2258,2,5
+68,Cerveza ZILLERTAL 970 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P082411-1.jpg,2258,2,5
+69,Cerveza ZILLERTAL Apa 473 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P510810-1.jpg,2258,2,5
+70,Cerveza ZILLERTAL Scotish 473 ml,https://images-ti-vm1.tiendainglesa.com.uy/small/P525771-1.jpg,2258,2,5
+71,Whisky Escocés 100 PIPERS 1 L,https://images-ti-vm1.tiendainglesa.com.uy/small/P388964-1.jpg,23,3,14
+72,Yogur ACTIVIA ciruela 170 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P402796-2.jpg,23,3,14
+73,Margarina ADORITA 250 g,https://images-ti-vm1.tiendainglesa.com.uy/small/P493118-1.jpg,28,3,14
+74,Jugo ADES Durazno 1 L,https://images-ti-vm1.tiendainglesa.com.uy/small/P002494-2.jpg,25,2,7
+75,Leche Vegetal Ades Almendras Sin Azúcar 1 L,https://tatauy.vteximg.com.br/arquivos/ids/369259-600-600/Leche-Vegetal-Ades-Almendras-Sin-Az-car-1-L-1-25363.jpg?v=637896081894930000,25,3,14
+76,Agua Jane Aero Desinfectante Expert Original 332 Ml,https://tatauy.vteximg.com.br/arquivos/ids/329272-600-600/Agua-Jane-Aero-Desinfectante-Expert-Original-332-Ml-1-23895.jpg?v=637842621997600000,34,4,16
+77,Cerveza CORONA 330 ml,https://geant.vteximg.com.br/arquivos/ids/293584-200-200/550183.jpg?v=637777800844130000,484,2,5
+78,Cerveza CORONA Extra 355 ml 6 un.,https://geant.vteximg.com.br/arquivos/ids/290051-200-200/550671.jpg?v=637729263448900000,484,2,5
+79,Cerveza CORONA 710 ml,https://geant.vteximg.com.br/arquivos/ids/244809-200-200/550670.jpg?v=637172048888800000,484,2,5
+80,Cerveza BRAHMA 473 ml,https://geant.vteximg.com.br/arquivos/ids/265715-200-200/550941.jpg?v=637430497435000000,256,2,5
+81,Cerveza Cabesas Bier Blonde Ale 500 Ml,https://tatauy.vteximg.com.br/arquivos/ids/231392-600-600/Cerveza-Cabesas-Bier-Blonde-Ale-500-Ml-1-6332.jpg?v=637734732935930000,302,2,5
+82,Cerveza Cabesas Bier Scotish Ale 500 Ml,https://tatauy.vteximg.com.br/arquivos/ids/231375-600-600/Cerveza-Cabesas-Bier-Scotish-Ale-500-Ml-Cerveza-Cabesas-Bier-Scotish-Ale-500-00-Ml-1-880.jpg?v=637734732894630000,302,2,5
+83,Yogur COLONIAL light durazno 1 L,https://geant.vteximg.com.br/arquivos/ids/205130-200-200/245780.jpg?v=636402840611670000,460,3,14
+84,Queso Maasdam CALCAR kg,https://geant.vteximg.com.br/arquivos/ids/296399-200-200/270828.jpg?v=637822817261330000,313,3,12
+85,Harina integral CAÑUELAS 1 kg,https://geant.vteximg.com.br/arquivos/ids/274677-200-200/472129.jpg?v=637587554545900000,330,1,1
+86,Harina CAÑUELAS con levadura para pizza 1kg,https://geant.vteximg.com.br/arquivos/ids/283307-200-200/673705.jpg?v=637665584795900000,330,1,1
+87,Harina leudante con calcio + vitamina D CAÑUELAS 1 kg,https://geant.vteximg.com.br/arquivos/ids/292685-200-200/472468.jpg?v=637756947998830000,330,1,1
+88,Harina Integral Leudante Cañuelas 500 G,https://tatauy.vteximg.com.br/arquivos/ids/230622-600-600/Harina-Integral-Leudante-Canuelas-500Gr-1-24642.jpg?v=637732029859430000,330,1,1
+89,Arroz Patna Blue Patna 5 Kg,https://tatauy.vteximg.com.br/arquivos/ids/162225-600-600/ARROZ-PATNA-BLUE-PATNA-BOLSA-5-KG-1-3452.jpg?v=636978215173000000,227,1,1
+90,Papas fritas LAY'S 250 g,https://geant.vteximg.com.br/arquivos/ids/282104-200-200/573099.jpg?v=637656748628900000,1190,1,1
+91,Whisky Escocés WHITE HORSE 1 L,https://geant.vteximg.com.br/arquivos/ids/201587-200-200/543890.jpg?v=636371810058530000,2216,2,10
+92,Jugo WATTS durazno 1 L,https://geant.vteximg.com.br/arquivos/ids/268819-200-200/570968.jpg?v=637520188555800000,2208,2,7
+93,Jugo WATTS naranja 1 L,https://geant.vteximg.com.br/arquivos/ids/268820-200-200/570969.jpg?v=637520188977600000,2208,2,7
+94,Cerveza VOLCANICA Belgian Ipa 500 ml,https://geant.vteximg.com.br/arquivos/ids/210304-200-200/550024.jpg?v=636450490548530000,2197,2,5
+95,Cerveza VOLCANICA Dubbel 500 ml,https://geant.vteximg.com.br/arquivos/ids/210305-200-200/550025.jpg?v=636450490579530000,2197,2,5
+96,Agua SALUS sin gas 1.5 L,https://geant.vteximg.com.br/arquivos/ids/288767-200-200/590076.jpg?v=637720625349500000,1832,2,4
+97,Agua SALUS sin gas 2.25 L,https://geant.vteximg.com.br/arquivos/ids/288781-200-200/590415.jpg?v=637720630826370000,1832,2,4
+98,Agua SALUS sin gas 600 ml,https://geant.vteximg.com.br/arquivos/ids/288772-200-200/590269.jpg?v=637720627334930000,1832,2,4
+99,"Aceite maíz DELICIA 1,5 L",https://geant.vteximg.com.br/arquivos/ids/197724-200-200/504009-1.jpg?v=636344177402930000,583,1,1
+100,Aceitunas verdes LA ABUNDANCIA sin carozo 160 g,https://geant.vteximg.com.br/arquivos/ids/201875-200-200/660418.jpg?v=636371845172200000,1119,1,1

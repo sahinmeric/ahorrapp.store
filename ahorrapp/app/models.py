@@ -51,7 +51,7 @@ class product_list(models.Model):
 
     id = models.BigAutoField(primary_key=True)
     name = models.CharField(max_length=120)
-    img_url = models.CharField(max_length=120)
+    img_url = models.CharField(max_length=200)
     brand_id = models.ForeignKey(brand, on_delete=models.CASCADE)
     cat_id = models.ForeignKey(category, on_delete=models.CASCADE)
     sub_id = models.ForeignKey(sub_category, on_delete=models.CASCADE)

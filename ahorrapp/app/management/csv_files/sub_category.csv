@@ -1,0 +1,18 @@
+﻿id,name,cat_id
+1,Canasta Familiar,1
+2,Congelados,1
+3,Desayuno,1
+4,Aguas,2
+5,Cervezas,2
+6,Espumantes,2
+7,Jugos,2
+8,Refrescos,2
+9,Vinos,2
+10,Whisky,2
+11,Carnicería,3
+12,Fiambrería,3
+13,Frutas y Verduras,3
+14,Lácteos,3
+15,Panadería,3
+16,Limpieza,4
+17,Perfumería,4
