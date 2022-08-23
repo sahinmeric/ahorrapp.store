@@ -1,10 +1,14 @@
 from rest_framework import viewsets
-from rest_framework import generics
-from django.http import JsonResponse
+from django.shortcuts import render
+
 from .serializers import productSerializer, product_listSerializer, marketSerializer, market_productsSerializer
 from .models import product, product_list, market
-""" Defines views """
 
+
+def home(request):
+    all_products = product_list.objects.all
+    context = {'all_products': all_products}
+    return render(request, "home.html", context)
 
 class productViewSet(viewsets.ReadOnlyModelViewSet):
     """ product view Set """
