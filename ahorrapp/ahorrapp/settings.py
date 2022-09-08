@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'ahorrapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'sahin',
+        'NAME': 'ahorrapp',
         'USER': 'sahin',
-        'PASSWORD': 'sahin',
+        'PASSWORD': 'Aq!sahin4354',
         'HOST': 'localhost',
         'PORT': '5432',
     }
