@@ -13,7 +13,7 @@
         all products save
     --------------------*/
     $.ajax({
-        url: "http://127.0.0.1:8000/api/products/",
+        url: "http://ahorrapp.store/api/products/",
         type: "GET",
         success: function (result) {
             sessionStorage.setItem('allProducts', JSON.stringify(result));
@@ -27,7 +27,7 @@
         product list save
     --------------------*/
     $.ajax({
-        url: "http://127.0.0.1:8000/api/product_list/",
+        url: "http://ahorrapp.store/api/product_list/",
         type: "GET",
         success: function (result) {
             sessionStorage.setItem('product_list', JSON.stringify(result));
