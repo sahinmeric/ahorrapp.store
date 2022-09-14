@@ -8,7 +8,7 @@ from .models import product, product_list, market
 def home(request):
     all_products = product_list.objects.all()
     context = {'all_products': all_products}
-    return render(request, "home1.html", context)
+    return render(request, "home.html", context)
 
 
 def list(request):

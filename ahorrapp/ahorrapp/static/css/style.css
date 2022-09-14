@@ -195,7 +195,7 @@ ol {
 	font-weight: 800;
 	text-transform: uppercase;
 	display: inline-block;
-	padding: 13px 30px 12px;
+	padding: 11px 30px 11px;
 	background: #7fad39;
 	border: none;
 }
@@ -704,14 +704,14 @@ ol {
 }
 
 .hero__search__form form input::placeholder {
-	color: #b2b2b2;
+	color: #a2a1a1;
 }
 
 .hero__search__form form button {
 	position: absolute;
 	right: 0;
-	top: -1px;
-	height: 50px;
+	top: 5px;
+	height: 40px;
 }
 
 .hero__search__phone {
