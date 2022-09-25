@@ -1,6 +1,6 @@
 # https://ahorrapp.store
 
-In this project I wanted to do on my own every part of our final project ([Ahorrapp](https://github.com/Matilop15/Ahorrapp)) of Holberton Schools Uruguay. The objective is to refactor and improve backend code, create a new frontend with Django MVT and deploy the project on AWS.  
+In this project I wanted to do on my own every part of our final project ([Ahorrapp](https://github.com/sahinmeric/Ahorrapp)) of Holberton Schools Uruguay. The objective is to refactor and improve backend code, create a new frontend with Django MVT and deploy the project on AWS.  
 
 ### During this process I've learnt;  
  * Creating AWS EC2 Linux instance and configuring inbound & outbound security rules.
