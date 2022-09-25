@@ -1,6 +1,6 @@
 # https://ahorrapp.store
 
-In this project I wanted to do every part of final project of Holberton Schools Uruguay on my own. The objective is to refactor and improve backend code, create a new frontend with Django MVT and deploy the project on AWS.  
+In this project I wanted to do on my own every part of our final project ([Ahorrapp](https://github.com/Matilop15/Ahorrapp)) of Holberton Schools Uruguay. The objective is to refactor and improve backend code, create a new frontend with Django MVT and deploy the project on AWS.  
 
 ### During this process I've learnt;  
  * Creating AWS EC2 Linux instance and configuring inbound & outbound security rules.
@@ -21,6 +21,7 @@ In this project I wanted to do every part of final project of Holberton Schools 
  <br>
 
 ### TODOs 
+ * TODO: Adding search product feature
  * TODO: Refactoring html files
  * TODO: Refactoring main.js
  * TODO: Refactoring list.js
@@ -31,9 +32,9 @@ In this project I wanted to do every part of final project of Holberton Schools 
  * TODO: Adding a Content-Security-Policy (CSP) Header  
 <br>  
 
-### Summary  
-* Backend - AWS EC2 Linux instance with NGINX and Gunicorn.
-* Database - AWS RDS Postgres DB instance.
-* Frontend - Recreated with Django MVT (model, view, template) design pattern.
+### Changelog Summary  
+* Backend deployment changed with AWS EC2 Linux instance with NGINX and Gunicorn.
+* Database type changed to Postgres and created on AWS RDS instance.
+* Frontend recreated with Django MVT (model, view, template) design pattern in order to reduce usage of an extra server. A seperate frontend server with Node.js and Nuxt.js is now obsolete.
 * Domain name - Namecheap and SSL certificate is done via CertBot.
 
